@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+    color: red;
+    
+
+}
+.body{
+    height: 92vh;
+    width: 70%;
+    background-color: violet;
+    border: 2px solid black;
+    margin: 0px auto;
+}
